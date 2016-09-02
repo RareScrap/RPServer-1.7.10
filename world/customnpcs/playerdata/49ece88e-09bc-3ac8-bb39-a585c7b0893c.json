@@ -1,0 +1,89 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        },
+        {
+            "Points": 0,
+            "Faction": 3
+        },
+        {
+            "Points": 994,
+            "Faction": 4
+        },
+        {
+            "Points": 1000,
+            "Faction": 5
+        },
+        {
+            "Points": 985,
+            "Faction": 6
+        },
+        {
+            "Points": 1000,
+            "Faction": 7
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "RareScrap",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "49ece88e-09bc-3ac8-bb39-a585c7b0893c",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 17
+        },
+        {
+            "Dialog": 1
+        },
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 22
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        }
+    ]
+}
